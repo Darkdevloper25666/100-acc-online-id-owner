@@ -3870,10 +3870,10 @@ jano100.on("ready", () => {
 
 
 //////////////// tokn lera da bne 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
+jano.login("OTE1MTk3NjcxMTYwMDQ5Njg2.YaYM6Q.64XjbgA6mhEdENPpaiTDcWSNs08");
+jano2.login("OTE1MTk4MTQwMDc5MDQyNTYw.YaYM9A.w3RD1lXXR5EbNOmvbmJ-uWk5wxU");
+jano3.login("OTE1MTk4ODAyNjExMjgxOTIz.YaYM_g.zEDPG6gpaYUILdzLeMlap8aWPhA");
+jano4.login("OTE1MTk5NTA2Mzg2MTQxMjM1.YaYNFg.qFxd0UssbCtp5avwqF6nzaA-BTM");
 jano5.login("");
 jano6.login("");
 jano7.login("");
